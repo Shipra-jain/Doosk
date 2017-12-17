@@ -33,3 +33,8 @@ Thumbnail:
 http://farm{farm}.staticflickr.com/{server}/{id}_{secret}_t_d.jpg
 Where {farm}, {server}, {id}, {secret} are inputs from the XML/JSON
 response.
+
+References:
+1)http://www.androidbegin.com/tutorial/android-parsing-yql-using-json-tutorial/
+2)https://traversoft.com/blog/2016/01/31/replace-listview-with-recyclerview/
+3)http://abhiandroid.com/programming/volley
